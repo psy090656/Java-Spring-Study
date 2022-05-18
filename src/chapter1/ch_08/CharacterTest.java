@@ -1,4 +1,4 @@
-package ch_08;
+package chapter1.ch_08;
 
 public class CharacterTest {
     public static void main(String[] args) {
